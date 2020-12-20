@@ -1,5 +1,5 @@
-from keras.models import Sequential
-from keras.layers import Dense, Dropout
+from tensorflow.keras.models import Sequential
+from tensorflow.python.keras.layers import Dense, Dropout
 from sklearn.model_selection import train_test_split
 import numpy
 
